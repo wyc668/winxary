@@ -1,0 +1,10 @@
+https://yugogo.xyz/?page_id=3
+
+https://proxy.yugogo.xyz/
+https://proxy.yugogo.xyz/
+ss节点：https://proxy.yugogo.xyz/ss/sub
+ssr节点：https://proxy.yugogo.xyz/ssr/sub
+vmess节点：https://proxy.yugogo.xyz/vmess/sub
+trojan节点：https://proxy.yugogo.xyz/clash/proxies?type=trojan
+所有节点：https://proxy.yugogo.xyz/clash/proxies?type=ss,ssr,vmess,trojan
+小猫咪Clash链接:clash://install-config?url=https://proxy.yugogo.xyz/clash/config
