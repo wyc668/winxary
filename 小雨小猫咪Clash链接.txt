@@ -1,5 +1,5 @@
 https://yugogo.xyz/?page_id=3
-https://www.youtube.com/watch?v=RmeH1KwBZZc
+
 https://proxy.yugogo.xyz/
 https://proxy.yugogo.xyz/
 ss节点：https://proxy.yugogo.xyz/ss/sub
@@ -8,3 +8,5 @@ vmess节点：https://proxy.yugogo.xyz/vmess/sub
 trojan节点：https://proxy.yugogo.xyz/clash/proxies?type=trojan
 所有节点：https://proxy.yugogo.xyz/clash/proxies?type=ss,ssr,vmess,trojan
 小猫咪Clash链接:clash://install-config?url=https://proxy.yugogo.xyz/clash/config
+谷歌硬盘下载
+https://drive.google.com/drive/folders/10ny6SyAdrppWmV_vUEgQbP92M5_6Ebjl?usp=sharing
